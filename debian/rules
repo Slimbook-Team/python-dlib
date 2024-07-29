@@ -1,0 +1,11 @@
+#!/usr/bin/make -f
+
+%:
+	dh $@
+
+override_dh_auto_build:
+    mkdir -p build
+    pip install --target build dlib==19.24
+    
+override_dh_auto_clean:
+    rm -rf build

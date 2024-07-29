@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: python-dlib
+Source: https://github.com/Slimbook-Team/python-dlib
+ 
+Files: *
+Copyright: 2024 Davis E.King <davis@dlib.net>
+License: Boost Software License - Version 1.0
+ 
