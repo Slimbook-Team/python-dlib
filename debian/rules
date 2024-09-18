@@ -5,7 +5,8 @@
 
 override_dh_auto_build:
 	mkdir -p build
-	pip install --target build dlib==19.24
+	pip install --target build dlib==19.24.5
+	rm -rf build/dlib/__pycache__
 
 override_dh_auto_clean:
 	rm -rf build

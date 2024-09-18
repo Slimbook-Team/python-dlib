@@ -9,6 +9,6 @@ Rules-Requires-Root: no
  
 Package: python3-dlib
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, libdlib19.1t64
+Depends: ${shlibs:Depends}, ${misc:Depends}, python3, libdlib19.1t64
 Description: python bindings for dlib
  Python bindings for dlib
