@@ -1,3 +1,9 @@
+python-dlib (19.24+slimbook9) noble; urgency=medium
+
+  * Using a better packaging
+
+ -- Slimbook <dev@slimbook.es>  Thu, 19 Sep 2024 10:54:20 +0200
+
 python-dlib (19.24+slimbook8) noble; urgency=medium
 
   * Initial release.
