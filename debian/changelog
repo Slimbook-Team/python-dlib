@@ -1,4 +1,4 @@
-python-dlib (19.10+slimbook0~bpo22.04.0) jammy; urgency=medium
+python-dlib (19.10+slimbook0~bpo22.04.1) jammy; urgency=medium
 
   * Jammy backport
 
