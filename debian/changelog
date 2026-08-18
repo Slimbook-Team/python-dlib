@@ -1,3 +1,9 @@
+python-dlib (20.0+slimbook0) resolute; urgency=medium
+
+  * Moved to 20.0
+
+ -- Slimbook <dev@slimbook.es>  Tue, 18 Aug 2026 18:03:30 +0200
+
 python-dlib (19.24+slimbook9) noble; urgency=medium
 
   * Using a better packaging
